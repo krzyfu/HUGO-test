@@ -7,5 +7,3 @@ image: img/about-direct-sourcing.jpg
 No i co dalej
 
 ![](img/about-jumbotron.jpg "hej")
-
->
